@@ -1,2 +1,2 @@
 # Fase5-Problema5-OG
-Código en Python para el Problema 5 (Control de Tiempos - Jefe RH) - Fase 4 de Fundamentos de Programación. Implementa matrices bidimensionales, lógica condicional compuesta y validación de datos en consola. Estudiante: Oscar Gordillo 
+Código fuente en Python correspondiente a la solución del Problema 5 (Módulo de Control de Tiempos para el Jefe de RH) para la Fase 4 del curso Fundamentos de Programación. Desarrollado bajo un paradigma modular, implementando matrices bidimensionales, estructuras de control selectivas compuestas (if-elif-else) y validación robusta de datos en la terminal para garantizar la estabilidad del sistema. Estudiante: Oscar Gordillo
